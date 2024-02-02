@@ -1,0 +1,14 @@
+.addproducts_container {
+  width: 450px;
+  margin: auto;
+  padding: 3em;
+}
+
+.addproducts_container h1 {
+  margin-bottom: .5em;
+
+}
+
+.addproducts_container p {
+  color: #7b7b7b;
+}

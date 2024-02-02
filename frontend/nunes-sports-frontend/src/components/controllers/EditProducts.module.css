@@ -1,0 +1,14 @@
+.editproducts_container {
+  width: 450px;
+  margin: auto;
+  padding: 3em;
+}
+
+.editproducts_container h1 {
+  margin-bottom: .5em;
+
+}
+
+.editproducts_container p {
+  color: #7b7b7b;
+}

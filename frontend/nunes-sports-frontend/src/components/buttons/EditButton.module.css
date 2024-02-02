@@ -1,0 +1,14 @@
+.editButton {
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 50%; 
+  vertical-align: middle;
+
+}
+
+.editButton:hover {
+  background-color: #ffd700; 
+  border-radius: 50%; 
+}
